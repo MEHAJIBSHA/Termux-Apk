@@ -5,7 +5,7 @@ printf "\033[94mDo you want to download termux-api.apk \033[91m(necessary) \033[
 
 if [ $opt == "y" ]
 then
-	xdg-open https://f-droid.org/repo/com.termux.api_51.apk
+	xdg-open https://f-droid.org/en/packages/com.termux/
 fi
 
 echo -e "\033[92minstalling done.\033[0m"
