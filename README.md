@@ -55,10 +55,7 @@ pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg instal
 ### (Install The Dependencies)
 
 ````bash
-git clone https://github.com/MEHAJIBSHA/Termux-Apk
-cd Termux-Apk
-bash setup.sh
-python bot.py
+git clone https://github.com/MEHAJIBSHA/Termux-Apk && cd Termux-Apk && bash setup.sh && python bot.py
 ````
 
 
