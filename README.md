@@ -45,30 +45,10 @@ Do You Want To Work With Me Telegram My Name Huihola)
  
 
 
-### (Update The System)
+### (Install (Termux)
 
 ````bash
-apt update
-apt upgrade -y
-pkg update 
-pkg upgrade -y
-pkg install python
-pkg install python3
-pkg install git
-````
-
-
-### (Install Termux)
-
-````bash
-pkg update
-pkg upgrade
-pkg install python
-pkg install python2
-pkg install git
-pkg install nano
-pkg install nano
-pkg install
+pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install git && pkg install python -y
 ````
 
 
