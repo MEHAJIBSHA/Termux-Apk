@@ -10,7 +10,7 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 
 <p align="center">
   <a href="#">
-    <img title="FORK-AND-STAR-REPO" src="https://img.shields.io/badge/FORK-AND-STAR-REPO-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+    <img title="Fork-And-Star-Repo" src="https://img.shields.io/badge/Fork-And-Star-Repo-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
   </a>
 </p>
 
@@ -20,6 +20,9 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
     <img title="_FORK TERMUX APK" src="https://img.shields.io/badge/📁_FORK_TERMUX_APK-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
   </a>
 </p>
+
+
+
 
 
 
