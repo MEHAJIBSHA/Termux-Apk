@@ -7,18 +7,9 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
     <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
-
 <p align="center">
   <a href="https://github.com/MEHAJIBSHA/Termux-Apk/fork"><img title="Release" src="https://img.shields.io/badge/Fork_And-Star_Repo%20-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/MEHAJIBSHA/Termux-Apk/fork">
-    <img title="_FORK TERMUX APK" src="https://img.shields.io/badge/📁_FORK_TERMUX_APK-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
-  </a>
-</p>
-
-
-
 <p align="center">
 <a href="https://github.com/HuiHola/Telegram-termux-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
