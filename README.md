@@ -3,14 +3,8 @@
 Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And Social Media Bot Development. From Automating Tasks To Enhancing Group Inte
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
-  </a> 
-</div> 
-
-<div align="center"> 
   <a href="https://github.com/MEHAJIBSHA"> 
-    <img src="https://github.com/MEHAJIBSHA/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
@@ -22,12 +16,13 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
   </a>
 </p>
 
+
 <p align="center">
 <a href="https://github.com/HuiHola/Telegram-termux-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
-### (If You Already Download Termux-api Then Type N Else Y It Download Termux Api)
+###(If You Already Download Termux-api Then Type N Else Y It Download Termux Api)
  
  ![Screenshot_2023_0428_233133](https://user-images.githubusercontent.com/84129766/235220872-680f5f6e-c703-40e8-ab9f-190b804e53b0.jpg)
 
