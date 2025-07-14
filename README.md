@@ -2,16 +2,25 @@
 
 Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And Social Media Bot Development. From Automating Tasks To Enhancing Group Inte
 
-<p align="center">
-<img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>
-</p>
-<p align="center">
-<a href="#"><img title="X BOT" src="https://img.shields.io/badge/Dark-Bot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/MEHAJIBSHA/Telegram-Bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+  </a> 
+</div> 
 
+<div align="center"> 
+  <a href="https://github.com/MEHAJIBSHA"> 
+    <img src="https://github.com/MEHAJIBSHA/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+  </a> 
+</div>
+
+### (FORK AND STAR REPO)
+
+<p align="center">
+  <a href="https://github.com/MEHAJIBSHA/Termux-Apk/fork">
+    <img title="_FORK TERMUX APK" src="https://img.shields.io/badge/📁_FORK_TERMUX_APK-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
+  </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/HuiHola/Telegram-termux-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
