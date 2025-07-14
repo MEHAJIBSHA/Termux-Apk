@@ -18,7 +18,7 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 </p>
 
 
-###(If You Already Download Termux-api Then Type N Else Y It Download Termux Api)
+### (If You Already Download Termux-api Then Type N Else Y It Download Termux Api)
  
  ![Screenshot_2023_0428_233133](https://user-images.githubusercontent.com/84129766/235220872-680f5f6e-c703-40e8-ab9f-190b804e53b0.jpg)
 
